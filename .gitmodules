@@ -13,3 +13,9 @@
 [submodule "pack/msauter/start/vim-go"]
 	path = pack/msauter/start/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "pack/msauter/start/vim-airline"]
+	path = pack/msauter/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
+[submodule "pack/msauter/start/vim-airline-themes"]
+	path = pack/msauter/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes.git

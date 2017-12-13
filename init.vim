@@ -137,3 +137,6 @@ let g:ctrlp_working_path_mode = ''
 if executable("goimports")
   let g:go_fmt_command = "goimports"
 endif
+
+" vim-airline-themes
+let g:airline_theme='base16'
